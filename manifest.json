@@ -1,0 +1,15 @@
+{
+  "short_name": "WD",
+  "name": "Well Done",
+  "icons": [
+  {
+  "src":"/images/dish.png",
+  "sizes": "512x512",
+  "type": "image/png"
+  }
+  ],
+  "start_url": "https://well-done.jkurowski.repl.co/",
+  "background_color": "#dee9e3",
+  "theme_color": "#dee9e3",
+  "display": "standalone"
+}
